@@ -13,3 +13,4 @@ for char, count in initial_list:
 print("list_vow=", list_vow)
 print("list_cons=", list_cons)
 print("list_sym=", list_sym)
+
