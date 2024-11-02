@@ -32,3 +32,4 @@ else:
     student2['final_grade'] = (0.3 * avg_assignment2) + (0.5 * avg_lab2) + (0.2 * avg_test2)
 print(student1)
 print(student2)
+
